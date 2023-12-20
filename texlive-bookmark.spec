@@ -1,6 +1,6 @@
 Name:		texlive-bookmark
-Version:	56885
-Release:	2
+Version:	69084
+Release:	1
 Summary:	A new bookmark (outline) organization for hyperref
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bookmark
