@@ -3,7 +3,7 @@ Version:	69084
 Release:	1
 Summary:	A new bookmark (outline) organization for hyperref
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bookmark
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bookmark
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bookmark.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bookmark.doc.r%{version}.tar.xz
